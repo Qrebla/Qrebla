@@ -4,5 +4,5 @@
 [![](https://activity-graph.herokuapp.com/graph?username=Qrebla&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Qrebla's github stats](https://github-readme-stats.vercel.app/api?username=Qrebla&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qrebla&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Qrebla&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qrebla&langs_count=2)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Qrebla&layout=compact&langs_count=2)
