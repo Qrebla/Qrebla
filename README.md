@@ -1,7 +1,7 @@
 
 <img align="right" src="https://badges.toozhao.com/badges/01GNRY1J9487ES96G1JE2J8WXG/blue.svg" />
 
-[![](https://activity-graph.herokuapp.com/graph?username=Qrebla&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=Qrebla&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qrebla&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qrebla&langs_count=2)
